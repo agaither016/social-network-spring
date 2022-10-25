@@ -1,4 +1,4 @@
-# Spring Boot version of the Social Network Application [![Build Status](https://travis-ci.org/ASaunin/social-network-spring.svg?branch=master)](https://travis-ci.org/ASaunin/social-network-spring/)
+# Spring Boot version of the Social Network Application [![Build Status](https://travis-ci.org/agaither/social-network-spring.svg?branch=master)](https://travis-ci.org/agaither/social-network-spring/)
 
 ![Spring Boot version of the Social Network Application](https://cloud.githubusercontent.com/assets/19559375/23728361/73745b58-046d-11e7-8849-c8e9140d3e6e.png)
 
@@ -30,11 +30,11 @@
 ## How to Build & Run application from Intellij IDEA
 
 ```
-git clone https://github.com/ASaunin/social-network-spring.git
+git clone https://github.com/agaither016/social-network-spring.git
 cd social-network-spring
 ./mvnw clean install
 ```
-Start Spring boot application from the main class: `org.asaunin.socialnetwork.SocialNetworkApplication`
+Start Spring boot application from the main class: `org.agaither016.socialnetwork.SocialNetworkApplication`
 
 Open [http://localhost:8080](http://localhost:8080) in your browser
 
@@ -61,7 +61,7 @@ The links below to get an application ids and secrets:
 Clone repository
 
 ```
-git clone https://github.com/ASaunin/social-network-spring.git
+git clone https://github.com/agaither016/social-network-spring.git
 cd social-network-spring
 ```
 
